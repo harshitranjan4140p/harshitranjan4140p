@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Harshit Ranjan
+**A passionate Programmer || Game Developer || Freelancer from India**
 
+Email Me 👉 ✉️ **harshitranjan4140p@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Real Life projects for my resume
+- 🌱 **I’m currently learning:** C++
+- 👯 **I’m looking to collaborate on:** N/A
+- 🤔 **I’m looking for help with:** Project Ideas
+- 💬 **Ask me about:** Game developement
+- 📫 **How to reach me:** harshitranjan4140p@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** Code should be written for humans to understand, not just for machines to execute.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flip_gamedev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-ranjan-874659375) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31272982) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshit4140p) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ILIKEPC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitranjan4140p@gmail.com) 
 
